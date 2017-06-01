@@ -1,0 +1,684 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"form",
+				"form__field"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"t",
+				"true"
+			],
+			[
+				"touch",
+				"touchSwipe"
+			],
+			[
+				"pro",
+				"product"
+			],
+			[
+				"cap",
+				"capResultTemplate"
+			],
+			[
+				"Le",
+				"leadId"
+			],
+			[
+				"get",
+				"getCapProducts"
+			],
+			[
+				"le",
+				"leadId"
+			],
+			[
+				"loc",
+				"localStorage"
+			],
+			[
+				"bar",
+				"barResult"
+			],
+			[
+				"margn",
+				"margin-left"
+			],
+			[
+				"paddin",
+				"padding-right"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"trans",
+				"transform"
+			],
+			[
+				"dist",
+				"distX"
+			],
+			[
+				"class",
+				"classList"
+			],
+			[
+				"swipe",
+				"swipedir"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"icons",
+				"iconsAnimated"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"is",
+				"isOnline"
+			],
+			[
+				"button",
+				"buttonCompleteTemplate"
+			],
+			[
+				"complet",
+				"completeButtonWrapper"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"background",
+				"background-position"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"num",
+				"number"
+			],
+			[
+				"exp",
+				"expanded"
+			],
+			[
+				"bene",
+				"benefitsExpanders"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"click",
+				"click-to-call"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"tex",
+				"text-transform"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 320.0,
+		"last_filter": "css",
+		"selected_items":
+		[
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"INSTAL",
+				"Package Control: Install Package"
+			],
+			[
+				"Set ",
+				"Set Syntax: CSS"
+			],
+			[
+				"sass",
+				"Preferences: Settings – Syntax Specific"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"JAVASCR",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"EDIT",
+				"Set Syntax: EditorConfig"
+			],
+			[
+				"INTAL",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"sty",
+				"Set Syntax: Stylus"
+			],
+			[
+				"scss",
+				"Set Syntax: CSS"
+			],
+			[
+				"styl",
+				"Set Syntax: Stylus"
+			],
+			[
+				"reinden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"mat",
+				"Material Theme: Activate theme"
+			],
+			[
+				"inst",
+				"Install Package Control"
+			]
+		],
+		"width": 453.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/mmonteiro/Documents/gulp/index.html",
+		"/Users/mmonteiro/Documents/agrvai/new_project/src/sass/_bootstrap.scss",
+		"/Users/mmonteiro/Documents/agrvai/new_project/src/css/main.css",
+		"/Users/mmonteiro/Documents/gulp/src/sass/main.scss",
+		"/Users/mmonteiro/Documents/gulp/src/sass/layout/blocks.scss",
+		"/Users/mmonteiro/Documents/gulp/src/index.html",
+		"/Users/mmonteiro/Documents/gulp/src/sass/font-awesome/font-awesome.scss",
+		"/Users/mmonteiro/Documents/gulp/src/sass/font-awesome/_animated.scss",
+		"/Users/mmonteiro/Documents/gulp/src/sass/font-awesome/_variables.scss",
+		"/Users/mmonteiro/Documents/gulp/package.json",
+		"/Users/mmonteiro/Documents/gulp/src/sass/layout/default.scss",
+		"/Users/mmonteiro/Documents/gulp/src/sass/helpers/variables.scss",
+		"/Users/mmonteiro/Documents/gulp/gulpfile.js",
+		"/Users/mmonteiro/Documents/gulp/dist/styles/main.css",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/src/assets/scripts/templates/capPlanTemplate.js",
+		"/Users/mmonteiro/Documents/gulp/dist/index.html",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/src/assets/styles/simulador-cap/boxes.styl",
+		"/Users/mmonteiro/Documents/gulp/dist/main.css",
+		"/Users/mmonteiro/Documents/gulp/src/sass/main.css",
+		"/Users/mmonteiro/Documents/stylus/bower_components/bootstrap-stylus/README.md",
+		"/Users/mmonteiro/Documents/Untitled/index.html",
+		"/Users/mmonteiro/Documents/WakeUpGirl/sass/styles.scss",
+		"/Users/mmonteiro/Documents/Untitled/sass/layout.scss",
+		"/Users/mmonteiro/Documents/WakeUpGirl/config.rb",
+		"/Users/mmonteiro/Documents/compass-sass-html5boilerplate/index.html",
+		"/Users/mmonteiro/Downloads/bootstrap-sass-3.3.7/README.md",
+		"/Users/mmonteiro/Downloads/bootstrap/config.json",
+		"/Users/mmonteiro/Downloads/bootstrap/js/bootstrap.js",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/src/assets/scripts/main.js",
+		"/Users/mmonteiro/Documents/WakeUp/sass/hero.scss",
+		"/Users/mmonteiro/Documents/WakeUp/sass/generalComponents.scss",
+		"/Users/mmonteiro/Documents/WakeUp/sass/_bootstrap-variables.scss",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/layouts/capitalizacao-simulador/single.html",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/src/assets/scripts/templates/capResultTemplate.js",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/src/assets/scripts/components/buttonComplete.js",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/src/assets/scripts/templates/buttonCompleteTemplate.js",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/src/assets/scripts/templates/barResultTemplate.js",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/src/assets/scripts/helpers/touch-swipe.js",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/src/assets/scripts/components/getPolicies.js",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/src/assets/scripts/helpers/toggle-plan.js",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/src/assets/scripts/components/expand-benefits.js",
+		"/Users/mmonteiro/Documents/WakeUp/index.html",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/src/assets/scripts/components/getCapProducts.js",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/layouts/partials/metatags.html",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/layouts/partials/head.html",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/layouts/partials/footer.html",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/layouts/partials/scripts.html",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/src/assets/scripts/components/coveragesButton.js",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/src/assets/scripts/components/getLeadContent.js",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/src/assets/scripts/components/stepButton.js",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/src/assets/styles/components/loading.styl",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/src/assets/styles/simulador-cap/layout.styl",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/layouts/seguro-vida-simulador/single.html",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/src/assets/scripts/components/getCapId.js",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/src/assets/scripts/components/getLeadId.js",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/src/assets/scripts/components/simulatorForm.js",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/src/assets/scripts/helpers/formatter.js",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/src/assets/scripts/helpers/check-initial-form-data.js",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/layouts/capitalizacao/single.html",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/content/seguro-vida/index.md",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/src/assets/scripts/helpers/change-range.js",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/src/assets/scripts/helpers/check-inicial-form-data.js",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/src/assets/scripts/helpers/check-local-storage.js",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/content/index.md",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/src/assets/scripts/components/getCapPlans.js",
+		"/Users/mmonteiro/investimentos.xpi.com.br/rvassets/js/audiences.js",
+		"/Users/mmonteiro/investimentos.xpi.com.br/_includes/preamp.html",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/.editorconfig",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/src/assets/scripts/templates/planCardTemplate.js",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/layouts/capitalizacao-simulador/single-old.html",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/src/assets/styles/layouts/header.styl",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/src/assets/styles/layouts/index.styl",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/src/assets/styles/components/boxes.styl",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/src/assets/scripts/helpers/validate.js",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/src/assets/scripts/helpers/validator.js",
+		"/Users/mmonteiro/Documents/WakeUp/javascripts/menu.js",
+		"/Users/mmonteiro/Documents/WakeUp/sass/styles.scss",
+		"/Users/mmonteiro/Documents/WakeUp/sass/search.scss",
+		"/Users/mmonteiro/Documents/WakeUp/sass/buttons.scss",
+		"/Users/mmonteiro/Documents/WakeUp/sass/blocks.scss",
+		"/Users/mmonteiro/Documents/WakeUp/sass/footer.scss",
+		"/Users/mmonteiro/Documents/WakeUp/sass/layout.scss",
+		"/Users/mmonteiro/Documents/WakeUp/sass/nav.scss",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/content/capitalizacao/index.md",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/critical-path.js",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/layouts/seguro-vida/single.html",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/src/assets/styles/config/mediaqueries.styl",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/src/assets/styles/config/variables.styl",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/src/assets/styles/components/button.styl",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/src/assets/styles/components/cards.styl",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/layouts/capitalizacao-simulador/single copy.html",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/src/assets/styles/main.styl",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/src/assets/styles/layouts/simulator.styl",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/src/assets/styles/components/simulador-cap/boxes.styl",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/src/assets/styles/components/simulador-cap/video.styl",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/src/assets/styles/components/simulador-cap/boxes",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/src/assets/scripts/templates/summaryHeaderTemplate.js",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/src/assets/scripts/templates/summaryTemplate.js",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/src/assets/scripts/templates/benefitBoxTemplate.js",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/src/assets/scripts/components/getBenefits.js",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/src/assets/scripts/components/benefitBoxes.js",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/src/assets/scripts/components/getProductValue.js",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/src/assets/scripts/templates/policyBoxTemplate.js",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/src/assets/scripts/templates/chosenPlanTemplate.js",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/src/assets/scripts/templates/buttonComplete.js",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/src/assets/scripts/components/resultStep.js",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/src/assets/scripts/components/policyInputs.js",
+		"/Users/mmonteiro/Downloads/Full Download 2/Hybrid/mail-cdb.html",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/src/assets/scripts/components/toogleDisclaimer.js",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/src/assets/scripts/components/triggerAmount.js",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/src/assets/scripts/data/benefits.js",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/src/assets/styles/layouts/footer.styl",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/src/assets/styles/base/base.styl",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/src/assets/styles/components/tooltip.styl",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/src/assets/styles/components/inputs.styl",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/src/assets/styles/components/forms.styl",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/src/assets/styles/components/lists.styl",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/src/assets/styles/layouts/styleguide.styl",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/layouts/_default/baseof.html",
+		"/Users/mmonteiro/investimentos.xpi.com.br/_layouts/traders.html",
+		"/Users/mmonteiro/investimentos.xpi.com.br/rvassets/js/traders.js",
+		"/Users/mmonteiro/a.icatuseguros.com.br/static/template/flow/style.css",
+		"/Users/mmonteiro/a.icatuseguros.com.br/static/template/flow/essencial-vida/essencial.html",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/src/assets/scripts/components/tracking.js",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/layouts/index.html",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/content/seguro-vida-simulador/index.md",
+		"/Users/mmonteiro/planos.icatuseguros.com.br/layouts/_default/single.html",
+		"/Users/mmonteiro/a.icatuseguros.com.br/static/template/flow/essencial-vida/prop1.html"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+			"index.html",
+			"/Users/mmonteiro/planos.icatuseguros.com.br/src",
+			"/Users/mmonteiro/planos.icatuseguros.com.br",
+			"",
+			"layout.styl",
+			"boxes.styl",
+			"search.scss",
+			"/Users/mmonteiro/planos.icatuseguros.com.br/src/assets/scripts",
+			"/Users/mmonteiro/planos.icatuseguros.com.br/src/scripts/",
+			"/Users/mmonteiro/planos.icatuseguros.com.br/src",
+			"/Users/mmonteiro/planos.icatuseguros.com.br/src/assets/scripts",
+			"",
+			"/src/*",
+			"/src",
+			"src",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"images",
+			".form-insurance",
+			"insu",
+			"input[type=\"tel\"]",
+			"buy",
+			"btn",
+			"hold",
+			"btn",
+			"100",
+			"buy",
+			"comple",
+			"buy",
+			"//",
+			"Break",
+			"//",
+			"buy",
+			"load",
+			"table",
+			"dist",
+			"capi",
+			"localStorage.setI",
+			"audi",
+			"res",
+			"none",
+			"LOAD",
+			"load",
+			"loading",
+			"carregando",
+			"aler",
+			"e",
+			"price",
+			"em",
+			"item",
+			"    padding: 45px 30px 30px 30px;",
+			"boxes",
+			"addDots",
+			"capResultTemplate",
+			"JSON.S",
+			"json.s",
+			"json",
+			".clear()",
+			"loca",
+			"setDefaultHeaders",
+			"Token",
+			"`;\n",
+			"sPag",
+			"cap",
+			"})\n",
+			"auth",
+			"stat",
+			"state",
+			"prod",
+			"();",
+			"init",
+			"mountProducts",
+			"produ",
+			"state",
+			"bind",
+			"initial",
+			"life",
+			"formData",
+			"LifeSimulationFormComplete",
+			"getLeadContent",
+			"mountProducts ",
+			"audien",
+			"export",
+			"clearIncome",
+			"${API.ROOT}/sim/sim",
+			"bind",
+			"acti",
+			"a",
+			"{",
+			".75",
+			".64",
+			"$sender",
+			"but",
+			"ui",
+			"boxes-products",
+			"hre",
+			"boot",
+			"trans",
+			"for",
+			"each",
+			"load",
+			"read",
+			"hover",
+			"&",
+			"color",
+			"back",
+			"lost",
+			"1/2",
+			"width",
+			"30p",
+			"wid1/2",
+			"wid",
+			"produc",
+			"handleButtonCompleteClick",
+			"#",
+			"form-seguro-vida",
+			"updateStore",
+			"bindStepButtonsEvents",
+			"step",
+			"bind",
+			"benefits-wrapper",
+			"wrapp",
+			"bene",
+			"bind",
+			"getProductValue",
+			"value",
+			"benefitsWrapper",
+			"benefits-wrapper",
+			"barResultTemplate",
+			"handleButtonCompleteClick",
+			"barResult",
+			"handleButtonCompleteClick",
+			"barResult",
+			"hold-result",
+			"hold-re",
+			"barResult",
+			"bar",
+			"barre",
+			"barResult",
+			"bar",
+			"barResu",
+			"result",
+			"bar",
+			"renderResultStep",
+			"render"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"img",
+			" {",
+			".80",
+			".75"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "gulpfile.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"sass",
+				"~/Documents/WakeUp/sass/hero.scss"
+			],
+			[
+				"helpers/auth",
+				"src/assets/scripts/helpers/auth.js"
+			],
+			[
+				".ed",
+				".editorconfig"
+			],
+			[
+				"formatt",
+				"src/assets/scripts/helpers/formatter.js"
+			],
+			[
+				"getleadco",
+				"src/assets/scripts/components/getLeadContent.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 222.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
